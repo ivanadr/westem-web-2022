@@ -3,9 +3,7 @@ This is the website we-created from scratch for the student interest group Women
 
 :camera_flash: This repo is a snapshot of the project when the founders, Ivana and Nouf left, it in Summer 2022. 
 
-:computer: See the website at: ivanadr.github.io/westem-web-2022/
-
-:bulb: See how the project grew since I left: https://westem-nyuad.github.io/web/
+:computer: See the project as we left it: https://ivanadr.github.io/westem-web-2022/
 
 :bellhop_bell: Team (in order of joining)
 
@@ -24,4 +22,5 @@ This is the website we-created from scratch for the student interest group Women
 Time commitment: 
 * voluntary project outside of class for our student organization (2-4 hrs/week, 1 academic year)
 
+:bulb: See how the project grew since we left: https://westem-nyuad.github.io/web/
 
