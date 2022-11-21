@@ -5,16 +5,16 @@ This is the website we-created from scratch for the student interest group Women
 
 :computer: See the project as we left it: https://ivanadr.github.io/westem-web-2022/
 
-:bellhop_bell: Team (in order of joining)
+:brain: Team (in order of joining)
 
-* :brain: [Ivana](https://www.linkedin.com/in/ivana-drabova/)  
+* :bust_in_silhouette: [Ivana](https://www.linkedin.com/in/ivana-drabova/)  
 	* founder, project co-lead with Nouf 06/2021 - 01/2022
 	* content developer 01/2022 - 05/2022 
 
-* :brain: [Nouf](https://www.linkedin.com/in/nouf-alabbasi/) 
+* :bust_in_silhouette: [Nouf](https://www.linkedin.com/in/nouf-alabbasi/) 
 	* founder, project co-lead with Ivana, then Yeonie 07/2021 - 05/2022 
 
-* :brain: [Yeonie Heo](https://ae.linkedin.com/in/yeonie-heo-5b491721a)
+* :bust_in_silhouette: [Yeonie Heo](https://ae.linkedin.com/in/yeonie-heo-5b491721a)
 	* designer 10/2021 - 01/2022
 	* project co-lead 07/2021 with Nouf, then continues to the next year 
 
