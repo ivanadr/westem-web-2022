@@ -1,9 +1,27 @@
 # weSTEM Web Page 
-This repo is a snapshot of the project when I left it in Summer 2022.
+This is the website we-created from scratch for the student interest group Women in STEM (WeSTEM) at [New York University Abu Dhabi (NYUAD)](https://nyuad.nyu.edu/en/). 
 
-This is the website I co-created from scratch for the student interest group Women in STEM (WeSTEM) that I was a part of at New York University Abu Dhabi (NYUAD) where I did my BA in Economics. 
+:camera_flash: This repo is a snapshot of the project when the founders, Ivana and Nouf left, it in Summer 2022. 
 
-* Team size: 3
-* Time commitement: volunatry project outside of class, 2hrs+ /week, 1 academic year. 
+:computer: See the website at: ivanadr.github.io/westem-web-2022/
 
-See how the project grew since I left --> Find the most up to date version at https://westem-nyuad.github.io/web/
+:bulb: See how the project grew since I left: https://westem-nyuad.github.io/web/
+
+:bellhop_bell: Team (in order of joining)
+
+* :woman: [Ivana](https://www.linkedin.com/in/ivana-drabova/)  
+	* founder, project co-lead with Nouf 06/2021 - 01/2022
+	* content developer 01/2022 - 05/2022 
+
+* :woman: [Nouf](https://www.linkedin.com/in/nouf-alabbasi/) 
+	* founder, project co-lead with Ivana, then Yeonie 07/2021 - 05/2022 
+
+* :woman: [Yeonie Heo](https://ae.linkedin.com/in/yeonie-heo-5b491721a)
+	* designer 06/2021 - 01/2022
+	* project co-lead 07/2021 with Nouf, then continues to the next year 
+
+:hourglass: 
+Time commitment: 
+* voluntary project outside of class for our student organization (2-4 hrs/week, 1 academic year)
+
+
