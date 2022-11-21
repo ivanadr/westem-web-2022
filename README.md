@@ -15,7 +15,7 @@ This is the website we-created from scratch for the student interest group Women
 	* founder, project co-lead with Ivana, then Yeonie 07/2021 - 05/2022 
 
 * :woman: [Yeonie Heo](https://ae.linkedin.com/in/yeonie-heo-5b491721a)
-	* designer 06/2021 - 01/2022
+	* designer 10/2021 - 01/2022
 	* project co-lead 07/2021 with Nouf, then continues to the next year 
 
 :hourglass: 
